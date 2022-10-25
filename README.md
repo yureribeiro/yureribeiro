@@ -1,4 +1,4 @@
-### Oi, eu Sou Yure Ribeiro 👋
+### Prazer, eu Sou Yure Ribeiro 👋
 
 <div align="center">
   <a href="https://github.com/yureribeiro">
