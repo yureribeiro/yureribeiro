@@ -1,4 +1,4 @@
-### Prazer, eu Sou Yure Ribeiro 👋
+### Yure Ribeiro 👋 Desenvolvedor Front-End
 
 <div align="center">
   <a href="https://github.com/yureribeiro">
