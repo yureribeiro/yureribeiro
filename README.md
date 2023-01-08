@@ -1,4 +1,8 @@
-### Yure Ribeiro 👋 Desenvolvedor Front-End
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8650dd&height=160&section=header&text=Yure%20Ribeiro&fontSize=30&fontColor=13185&animation=twinkling&fontAlignY=35" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=500&color=6138a1&background=11111100&center=true&vCenter=true&width=1000&lines=Nice+To+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/yureribeiro">
