@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/yureribeiro">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yureribeiro&layout=compact&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yureribeiro&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yureribeiro&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
