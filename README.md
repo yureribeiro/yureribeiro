@@ -14,7 +14,7 @@
 </div>
   
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yureribeiro&layout=compact&theme=tokyonight"/>
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yureribeiro&layout=compact&theme=tokyonight"/>
 </div>
 
   
