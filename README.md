@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/yureribeiro">
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yureribeiro&layout=compact&theme=tokyonight"/> 
+  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yureribeiro&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/> 
 </div>
   
 <div align="center">
