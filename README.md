@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13005A&height=100&section=header&fontSize=30&fontColor=13185&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E8388&height=100&section=header&fontSize=30&fontColor=13185&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
   <a href="https://github.com/yureribeiro">
