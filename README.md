@@ -11,7 +11,7 @@
   
   <hr>
   
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,styledcomponents,tailwind,react,figma,git,nodejs,express,mongodb,postgres,postman)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,styledcomponents,tailwind,react,figma,git,nodejs,express,mongodb,postgres,prisma,postman,expo)](https://skillicons.dev)
 
   
   
