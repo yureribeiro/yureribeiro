@@ -6,7 +6,7 @@
   
   <hr>
   
- [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,styledcomponents,tailwind,react,vite,figma,git,nodejs,express,mongodb,postgres,prisma,postman,gcp,aws)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,styledcomponents,tailwind,react,vite,git,nodejs,express,mongodb,postgres,prisma,postman)](https://skillicons.dev)
 
   
   
